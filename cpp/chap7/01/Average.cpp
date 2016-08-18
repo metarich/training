@@ -14,7 +14,7 @@ bool Average(InputStream& stream) {
 	}
 
 	avr /= count;
-	cout << "average is " << ave << endl;
+	cout << "average is " << avr << endl;
 	return true;
 }
 

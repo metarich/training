@@ -7,7 +7,7 @@ class InputStream :
 	public Stream 
 {
 public:
-	bool set()
+	bool Set();
 };
 
 #endif // #ifndef INPUTSTREAM_20160818
